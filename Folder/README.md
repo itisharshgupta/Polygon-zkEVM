@@ -79,5 +79,7 @@ npx hardhat run scripts/deploy.ts --network mumbai
 ```
 
 **Step 7:** Verify the proof.   
- ## Authors
-Ashutosh
+
+## Authors
+
+Harsh Gupta
